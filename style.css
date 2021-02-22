@@ -1,0 +1,33 @@
+
+h1 {
+ font-family: 'UnifrakturCook', cursive;
+ margin-bottom: 50px;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 100px;
+  background-color: white;
+
+}
+
+h2 {
+ font-family: 'UnifrakturCook', cursive;
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+letter-spacing:0.1em
+
+}
+
+banner {
+  background-color: white
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+background {
+  display:column;
+}
